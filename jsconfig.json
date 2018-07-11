@@ -6,5 +6,8 @@
     "checkJs": true,
     "jsx": "react",
     "lib": [ "dom", "es2017" ]
-  }
+  },
+  "include": [
+    "node_modules"
+  ]
 }
